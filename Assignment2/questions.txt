@@ -1,0 +1,31 @@
+1.make module file
+2.to check year is a leap year(divisible by 4 but not divisible by 100 or it is divisible by 400)
+3.to find largest among 3 number using if, elif,else.
+4.to take student exam score and print their corresponding letter.90-100,80-89 b,70-79 c,0-59 fail
+5.print your name using function
+6.even number between intervals using function.
+7.generate the random password
+8.area of circle using function.
+9.to reverse a function using function.
+10.To calculate the power of the certain number.
+11.find number is odd or even.
+12.a character is vowel or consonant.
+13.whether number is positive negative or zero
+14.to print a name 20 times.
+15.to calculate sum of natural number.
+16.generate the multiplication table of 5.
+17.multiplication table 1-4
+18.to create a simple calculator (add,sub,mul,div)
+19.to print 1-20 but not 18
+20.write a program to print Hello i am "sugam"
+21.calculate simple interest
+22.square of the number using user input
+23.to find quotient and remainder of 2 number
+24.write program to swap two number.
+25.write a method to remove all the white space .
+26.to convert string into int.
+27.suppose you  often go to a restaurant with firends and you have to split amount of bill write a program to calculate the split amount of bill.
+29.what are type of functional arguments explain with example
+30. program for arbitrary argument and keyword arbitrary argument
+31. example of init and self 
+32. program using try except else and finally
